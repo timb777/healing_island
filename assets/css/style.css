@@ -12528,7 +12528,6 @@ button:focus {
   opacity: 0;
   z-index: 2;
   visibility: hidden;
-  -webkit-backface-visibility: hidden;
 }
 .portfolio-overlay .portfolio-content.portfolio-content-center {
   bottom: auto;
@@ -14768,7 +14767,6 @@ button:focus {
   font-family: "molla";
   font-style: normal;
   font-weight: normal;
-  speak: none;
   display: inline-block;
   text-decoration: inherit;
   text-align: center;
